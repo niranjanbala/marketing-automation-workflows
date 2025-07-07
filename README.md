@@ -76,6 +76,13 @@ These workflows follow a **customer-centric automation approach**:
 - A/B testing for automation workflows
 - Compliance and privacy automation
 
+## AI-Enhanced Framework Documents
+
+This repository includes comprehensive AI-enhanced frameworks that provide strategic guidance for building intelligent marketing automation systems:
+
+### **[Intelligent Automation Orchestration](intelligent-automation-orchestration.md)**
+Complete framework for building human-centric automation intelligence systems that create seamless customer experiences, optimize marketing workflows, and drive personalized engagement through strategic AI integration and foundational automation principles.
+
 ## Contributing
 
 Found an issue or want to improve a workflow?
